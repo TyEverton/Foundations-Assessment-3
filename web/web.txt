@@ -1,0 +1,7 @@
+///HOW DOES THE INTERNET WORK?////
+
+For the internet to work on your device, your client (device) must be connected to an ISP (internet service provider). ISPs are then connected to the internet, who is connected to hundreds of millions (probably more) clients, servers and ISPs. Servers hold information that you are able to view once you go to a website. They are basically used for data storage. Every client and server have their own IP address. This is how each client and server are separated from one another. Like a street address or a serial number. For me to access Google.com, my computer must be connnected thru my router to my ISP which is then connected to the internet. Then I am viewing the internet with my IP address. If I go to Google.com, my computer makes a request to Google to allow my computer to download what is on the Google Server so that my computer can then display it in a readable/viewable form
+
+///WHAT HAPPENS WHEN YOU CLICK ON A LINK?///
+
+My client initiates an HTTP session by opening a TCP connection to the HTTP server I am wanting to view. Then my client sends a request message to the server, specifying which action I want the server to take. Once my request is approved, the HTTP I sent the request to will then send the data back to my browser. 
